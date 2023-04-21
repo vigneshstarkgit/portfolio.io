@@ -1,0 +1,17 @@
+table
+{
+  border-spacing: 30px;
+}
+body{
+  text-align: center;
+  background: #CAE3E4;
+}
+.tab{
+  margin-left: auto;
+  margin-right: auto;
+}
+.box{
+  position: absolute;
+  top:50px;
+  right: 50px;
+}
